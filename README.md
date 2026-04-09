@@ -1,6 +1,9 @@
 # votacao-candidato-municipio
+
 Analise de Microdados Eleitorais - TSE 2024 (Maringa e Regiao)
+
 Sobre o Projeto
+
 Este projeto realiza o processamento e a analise estatistica dos microdados de votacao por municipio das Eleicoes Municipais de 2024. O foco principal esta na regiao de Maringa/PR, visando extrair padroes de comportamento eleitoral e densidade de votos atraves de fontes oficiais.
 
 ### Tecnologias e Ferramentas
